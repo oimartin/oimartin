@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on my MS in Data Science
+- 🌱 I’m currently learning how to update my personal github.io page
+- 👯 I’m looking to collaborate on a dashboard project
+- 🤔 I’m looking for help with technical interviews
