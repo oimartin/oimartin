@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on my MS in Data Science
-- 🌱 I’m currently learning how to update my personal github.io page
-- 👯 I’m looking to collaborate on a dashboard project
-- 🤔 I’m looking for help with technical interviews
+- 🔭 I have an MS in Data Science
+- 🌱 I’m currently learning how to us R for supervised machine learning
+- 🤔 I’m looking for help building connections for future jobs
+- ⚡ Fun fact: I love watching documentaries on YouTube
